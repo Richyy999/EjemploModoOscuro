@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ds">
+        <attr name="colorTexto" format="color" />
+        <attr name="fondoBotonPositivo" format="color" />
+        <attr name="fondoBotonNegativo" format="color" />
+        <attr name="fondoCardView" format="color" />
+        <attr name="colorSwitch" format="color" />
+        <attr name="fondoApp" format="color" />
+        <attr name="colorThumbSwitch" format="color" />
+    </declare-styleable>
+</resources>

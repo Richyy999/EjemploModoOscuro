@@ -1,0 +1,68 @@
+<resources>
+    <!-- Base application theme. -->
+    <!--Tema claro-->
+    <style name="TemaClaro" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorTexto">@color/colorTextoClaro</item>
+        <item name="fondoBotonPositivo">@color/fondoBotonPositivoClaro</item>
+        <item name="fondoBotonNegativo">@color/fondoBotonNegativoClaro</item>
+        <item name="fondoCardView">@color/fondoCardViewClaro</item>
+        <item name="colorSwitch">@color/colorSwitchClaro</item>
+        <item name="fondoApp">@color/fondoAppClaro</item>
+        <item name="colorThumbSwitch">@color/colorThumbSwitchClaro</item>
+    </style>
+
+    <!--Tema oscuro-->
+    <style name="TemaOscuro" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorTexto">@color/colorTextoOscuro</item>
+        <item name="fondoBotonPositivo">@color/fondoBotonPositivoOscuro</item>
+        <item name="fondoBotonNegativo">@color/fondoBotonNegativoOscuro</item>
+        <item name="fondoCardView">@color/fondoCardViewOscuro</item>
+        <item name="colorSwitch">@color/colorSwitchOscuro</item>
+        <item name="fondoApp">@color/fondoAppOscuro</item>
+        <item name="colorThumbSwitch">@color/colorThumbSwitchOscuro</item>
+    </style>
+
+    <style name="cardView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">16dp</item>
+        <item name="cardBackgroundColor">?attr/fondoCardView</item>
+    </style>
+
+    <style name="textView">
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textColor">?attr/colorTexto</item>
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+    <style name="botonPositivo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_marginStart">32dp</item>
+        <item name="android:layout_marginEnd">32dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:background">@drawable/fondo_boton_positivo</item>
+        <item name="android:textColor">@color/colorTextoBotonPositivo</item>
+    </style>
+
+    <style name="botonNegativo">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">32dp</item>
+        <item name="android:layout_marginEnd">32dp</item>
+        <item name="android:layout_marginTop">8dp</item>
+        <item name="android:background">@drawable/fondo_boton_negativo</item>
+        <item name="android:textColor">@color/colorTextoBotonNegativo</item>
+    </style>
+
+    <style name="switchCompat">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+
+</resources>

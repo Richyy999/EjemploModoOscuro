@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#6200EE</color>
+    <color name="colorPrimaryDark">#3700B3</color>
+    <color name="colorAccent">#03DAC5</color>
+
+    <color name="colorTextoClaro">#6D6D6D</color>
+    <color name="colorTextoOscuro">#F3F3F3</color>
+
+    <color name="colorTextoBotonPositivo">#FFFFFF</color>
+
+    <color name="colorTextoBotonNegativo">#363636</color>
+
+    <color name="fondoAppClaro">#FFFFFF</color>
+    <color name="fondoAppOscuro">#2D2D2D</color>
+
+    <color name="fondoBotonPositivoClaro">#328FE6</color>
+    <color name="fondoBotonPositivoOscuro">#18AFE7</color>
+
+    <color name="fondoBotonNegativoClaro">#C1C1C1</color>
+    <color name="fondoBotonNegativoOscuro">#A0A0A0</color>
+
+    <color name="fondoCardViewClaro">#FAFAFA</color>
+    <color name="fondoCardViewOscuro">#464646</color>
+
+    <color name="colorSwitchClaro">#3D8DED</color>
+    <color name="colorSwitchOscuro">#D53A51</color>
+
+    <color name="colorThumbSwitchClaro">#F3F3F3</color>
+    <color name="colorThumbSwitchOscuro">#2D2D2D</color>
+</resources>
