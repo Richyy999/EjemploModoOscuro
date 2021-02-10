@@ -8,5 +8,6 @@
         <attr name="colorSwitch" format="color" />
         <attr name="fondoApp" format="color" />
         <attr name="colorThumbSwitch" format="color" />
+        <attr name="iconoAjustes" format="reference" />
     </declare-styleable>
 </resources>

@@ -13,6 +13,7 @@
         <item name="colorSwitch">@color/colorSwitchClaro</item>
         <item name="fondoApp">@color/fondoAppClaro</item>
         <item name="colorThumbSwitch">@color/colorThumbSwitchClaro</item>
+        <item name="iconoAjustes">@drawable/settings_claro</item>
     </style>
 
     <!--Tema oscuro-->
@@ -24,6 +25,7 @@
         <item name="colorSwitch">@color/colorSwitchOscuro</item>
         <item name="fondoApp">@color/fondoAppOscuro</item>
         <item name="colorThumbSwitch">@color/colorThumbSwitchOscuro</item>
+        <item name="iconoAjustes">@drawable/settings_oscuro</item>
     </style>
 
     <style name="cardView">
